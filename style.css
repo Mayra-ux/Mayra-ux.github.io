@@ -1,23 +1,25 @@
+* {
 
-*{
-  
-    font-family: "Montserrat Alternates", sans-serif;
-    font-weight: 100;
-    font-style: normal;
-    
-  
-}
-.navbar{
-  background-color: #173B45;
-}
-.container-fluid{
-  background-color: #173B45;
-}
-.navbar2{
- background-color:  #173B45;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+
+
 }
 
-.icon-square .bi{
+.navbar {
+  background-color: #173B45;
+}
+
+.container-fluid {
+  background-color: #173B45;
+}
+
+.navbar2 {
+  background-color: #173B45;
+}
+
+.icon-square {
 
   width: auto;
   height: auto;
@@ -26,20 +28,42 @@
   padding: 1px;
 }
 
-.img-proyecto1{
+.img-proyecto1 {
   background-image: url('/assets/clon-pinterest.png');
   background-size: contain;
   background-repeat: no-repeat;
 }
 
-.img-proyecto2{
+.img-proyecto2 {
   background-image: url('/assets/clon-pinterest.png');
   background-size: contain;
   background-repeat: no-repeat;
 }
 
-.img-proyecto3{
+.img-proyecto3 {
   background-image: url('/assets/clon-pinterest.png');
   background-size: contain;
   background-repeat: no-repeat;
+}
+
+.icon-habilities {
+  color: #FF8225;
+}
+
+.bi {
+  font-size: 3rem;
+  color: #FF8225;
+}
+
+footer {
+  background-color: #173B45;
+}
+
+footer .text {
+
+  color: white;
+}
+
+footer p {
+  color: white;
 }
